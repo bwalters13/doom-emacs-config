@@ -126,6 +126,7 @@
   :key (password-store-get "openrouter")
   :models '(openai/gpt-4o-mini
             google/gemini-2.5-pro-preview
+            google/gemini-2.5-pro
             deepseek/deepseek-chat-v3-0324
             deepseek/deepseek-r1-0528:free
             deepseek/deepseek-r1-0528
