@@ -4,9 +4,10 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(custom-enabled-themes '(doom-monokai-classic))
+ '(custom-enabled-themes '(doom-cyan-charcoal))
  '(custom-safe-themes
-   '("4d714a034e7747598869bef1104e96336a71c3d141fa58618e4606a27507db4c"
+   '("ff53a30172ba57f16a4c0f477ad496b45adc7de23608cc73c501f16e06d4779d"
+     "4d714a034e7747598869bef1104e96336a71c3d141fa58618e4606a27507db4c"
      "2b501400e19b1dd09d8b3708cefcb5227fda580754051a24e8abf3aff0601f87"
      "b754d3a03c34cfba9ad7991380d26984ebd0761925773530e24d8dd8b6894738"
      "a6920ee8b55c441ada9a19a44e9048be3bfb1338d06fc41bce3819ac22e4b5a1"

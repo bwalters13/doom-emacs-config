@@ -59,3 +59,7 @@
 (package! json-navigator)
 (package! speed-type)
 (package! password-store)
+(package! doom-two-tone-themes
+  :recipe (:host github
+           :repo "eliraz-refael/doom-two-tone-themes"
+           :files ("doom-two-tone-themes.el" "themes/*.el")))
